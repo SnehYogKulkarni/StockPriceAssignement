@@ -7,6 +7,7 @@ Till today the company is working manually and wants to be digital. As a Softwar
 The Application will accept the no of companies N, that the user wants to store records of.
 
 a) Users will enter the share price(double format) of N companies. 
+
 b) Users will enter a boolean value(TRUE, FALSE) of each company, to keep track of the company’s share price compared to yesterday. 
 
 The user will enter value through the console.
